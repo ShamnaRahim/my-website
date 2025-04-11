@@ -1,0 +1,44 @@
+.backGround {
+  background-color: indigo;
+  color: white;
+}
+
+.linkStyle {
+  color: black;
+  text-decoration: none;
+}
+
+.sectionColor {
+  background-color: rgb(243, 237, 248);
+}
+
+.sectionOther {
+  background-color: rgb(249, 247, 250);
+}
+
+.imageContainer {
+  height: 30em;
+  width: 30em;
+  color: black;
+  border: solid;
+}
+
+.buttonColor {
+  background-color: indigo;
+}
+
+.containerContactnow {
+  background-color: rgb(245, 243, 248);
+  border-radius: 1em;
+}
+
+.imageSize {
+  height: 25em;
+  width: 27em;
+  padding-bottom: 3em;
+}
+
+.cardImageSize {
+  height: 9em;
+  width: 9em;
+}/*# sourceMappingURL=style.css.map */

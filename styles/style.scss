@@ -1,0 +1,63 @@
+
+$bgcolor:indigo;
+$headrtext:blue;
+$linkcolor:black;
+$sectionColor:rgb(243, 237, 248);
+$section-colorset:rgb(249, 247, 250);
+$imagebox-height:30em;
+$imagebox-width:30em;
+$btn-color:indigo;
+$container-color:rgb(245, 243, 248);
+//$container-contactnow-height:30em;
+//$conatiner-contactnow-width:100%;
+$image-height:25em;
+$image-width:27em;
+$cardimage-height:9em;
+$cardimage-width:9em;
+
+
+.backGround{
+background-color: $bgcolor;
+color: white;
+}
+
+
+.linkStyle{
+    color:$linkcolor ;
+    text-decoration: none;
+    
+}
+
+.sectionColor{
+    background-color: $sectionColor;
+}
+.sectionOther{
+    background-color: $section-colorset;
+}
+
+.imageContainer{
+    height: $imagebox-height;
+    width: $imagebox-width;
+    color: black;
+    border: solid;
+}
+.buttonColor{
+    background-color: $btn-color;
+}
+.containerContactnow{
+   // height:$container-contactnow-height ;
+   // width: $conatiner-contactnow-width;
+    
+    background-color: $container-color;
+    border-radius: 1em;
+}
+.imageSize{
+    height: $image-height;
+    width: $image-width;
+    padding-bottom: 3em;
+}
+
+.cardImageSize{
+    height: $cardimage-height;
+    width: $cardimage-width;
+}
